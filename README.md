@@ -1,7 +1,7 @@
 
 I am Naveed, I am a passionate software developer. 
 
-I have 4.5 years of proven experience in my field.
+I have 5+ years of proven experience in my field.
 
 I have a vast experience with multiple domains like financial systems, sales and distribution, HRM Tools, Medicaid systems etc.
 
@@ -9,11 +9,11 @@ I have experience working in a multicultural environment and have worked closely
 
 I am a team player and have been working in a leading postion for last 2.5 years.
 
-My core expertise is .net tech stack with all of its related technologies including c# ,mvc, web api, .net core etc.
+My core expertise is Backend (Node.js as well as .Net) with good experience in Front-end (Angular and ReactJS)
 
-Have experience in multiple cloud platforms like amazon aws, localstack and microsoft azure.
+Having experience in multiple cloud platforms like amazon aws, microsoft azure.
 
-Have an excellent exposure of latest microservices architecture which is highly scalable and could be deployed using kubernates.
+Having an excellent exposure of latest microservices architecture which is highly scalable and could be deployed using kubernates.
 
 My hobbies' include reading books and watching documentaries.
 
