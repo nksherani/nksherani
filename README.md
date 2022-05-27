@@ -1,22 +1,6 @@
 
-I am Naveed, I am a passionate software developer. 
+I am Naveed, I am a passionate software developer. I have a proven experience of 5.5 years of experience as software engineer. I have a great experience in Node.js, NestJS, Angular, ReactJS, .Net framework, .Net Core, .Net 6. I am fluent in JavaScript, TypeScript and c# for both back-end as well as front-end development. I have a great experience in relational databases including MySQL, Postgres, SQL Server and Oracle. I have good experience in Mongo and DocumentDb as well. I have been working on scalability aspect of software systems along with writing CICD pipelines for microservices for last 1 year as a team lead. I have got very good exposure of Kubernetes, containerization, CI/CD and other related stuff. I have a very vast exposure including almost all of the major cutting edge technologies. I am fluent in using AWS Cloud services both from console as well as from CLI. I also have experience in using Azure services like Azure function, Service Bus, APIM, App Insights, Alerts etc.
 
-I have 5+ years of proven experience in my field.
+I am fluent in English and have long been working with American clients directly. I am fully aware of american work environment and culture. I am a team player.
 
-I have a vast experience with multiple domains like financial systems, sales and distribution, HRM Tools, Medicaid systems etc.
-
-I have experience working in a multicultural environment and have worked closely with American and european teams.
-
-I am a team player and have been working in a leading postion for last 2.5 years.
-
-My core expertise is Backend (Node.js as well as .Net) with good experience in Front-end (Angular and ReactJS)
-
-Having experience in multiple cloud platforms like amazon aws, microsoft azure.
-
-Having an excellent exposure of latest microservices architecture which is highly scalable and could be deployed using kubernates.
-
-My hobbies' include reading books and watching documentaries.
-
-I am a quick learner and always have something in queue to be learned.
-
-That's it.
+My hobbies include reading books, learning things mostly from Udemy and also I am interested in ethical hacking and pentesting slowly learning it as well.
